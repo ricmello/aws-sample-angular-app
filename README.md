@@ -1,6 +1,6 @@
-# AwsSampleAngularApp
+# AWS Sample Angular App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) and was created to be deployed to aws for studying purposes.
 
 ## Development server
 
